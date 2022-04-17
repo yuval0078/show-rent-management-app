@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "620f7a92629c71b565baf81d",
+    "name": { "first": "AdminF", "last": "AdminL" },
+    "createdDate": "01.01.2000",
+    "sessionTimeOut": 62
+  },
+  {
+    "name": { "first": "yonti", "last": "co" },
+    "_id": "6227404ab245de9d6e374569",
+    "sessionTimeOut": 44,
+    "createdDate": "08.03.2022"
+  },
+  {
+    "name": { "first": "avi", "last": "levi" },
+    "_id": "62286ed7b245de9d6e37456f",
+    "sessionTimeOut": 45,
+    "createdDate": "09.03.2022"
+  },
+  {
+    "name": { "first": "www", "last": "wwww" },
+    "_id": "6238c76f23a3123cc7325426",
+    "sessionTimeOut": 1,
+    "createdDate": "21.03.2022"
+  }
+]

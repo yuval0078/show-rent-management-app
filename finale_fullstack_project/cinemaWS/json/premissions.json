@@ -1,0 +1,40 @@
+[
+  {
+    "userId": "620f7a92629c71b565baf81d",
+    "premissions": [
+      "view shows",
+      "create shows",
+      "delete shows",
+      "update shows",
+      "view members",
+      "create members",
+      "delete members",
+      "update members",
+      "admin premissions"
+    ]
+  },
+  {
+    "userId": "6227404ab245de9d6e374569",
+    "premissions": ["view shows", "view members"]
+  },
+  {
+    "userId": "62286ed7b245de9d6e37456f",
+    "premissions": [
+      "view shows",
+      "create shows",
+      "delete shows",
+      "update shows",
+      "view members"
+    ]
+  },
+  {
+    "userId": "6238c76f23a3123cc7325426",
+    "premissions": [
+      "view shows",
+      "create shows",
+      "delete shows",
+      "update shows",
+      "view members"
+    ]
+  }
+]
