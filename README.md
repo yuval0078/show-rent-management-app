@@ -1,1 +1,1 @@
-# show-rent-menagement-app
+# show-rent-management-app
